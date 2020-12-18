@@ -23,7 +23,7 @@ h6 {
 }
 
 a {
-  color: #000000;
+  color: black;
   transition: all .5s ease;
 }
 
@@ -104,7 +104,7 @@ a:hover {
 }
 
 .text-brand {
-  color: #000000;
+  color: white;
   font-size: 2rem;
   font-weight: 600;
 }
@@ -116,11 +116,11 @@ a:hover {
 }
 
 .color-a {
-  color: #000000;
+  color: black;
 }
 
 .color-b {
-  color: #bd2130;
+  color: #ed3833;
 }
 
 .color-d {
@@ -128,7 +128,7 @@ a:hover {
 }
 
 .color-text-a {
-  color: #555555;
+  color: black;
 }
 
 .no-margin {
@@ -407,7 +407,7 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #bd2130;;
+  background-color: #ed3833;
   width: 35px;
 }
 
@@ -485,7 +485,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #bd2130;;
+  background: #ed3833;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -573,12 +573,12 @@ a:hover {
 }
 
 .btn.btn-a:hover {
-  background-color: #2eca6a;
+  background-color: #ed3833;
   color: #000000;
 }
 
 .btn.btn-b {
-  background-color: #2eca6a;
+  background-color: #ed3833;
   color: #000000;
 }
 
@@ -588,13 +588,13 @@ a:hover {
 }
 
 .btn.btn-b-n {
-  background-color: #bd2130;
+  background-color: #ed3833;
   color: #ffffff;
   border-radius: 0;
 }
 
 .btn.btn-b-n:hover {
-  background-color: #26a356;
+  background-color: #ed3833;
   color: #ffffff;
 }
 
@@ -708,7 +708,7 @@ a:hover {
 }
 
 .navbar-default.navbar-reduce .nav-link:before {
-  background-color: #bd2130;
+  background-color: #ed3833;
 }
 
 .navbar-default.navbar-reduce .nav-link:hover {
@@ -1007,7 +1007,7 @@ a:hover {
 .intro .intro-body .price-a {
   color: #ffffff;
   padding: 1rem 1.5rem;
-  border: 2px solid #bd2130;
+  border: 2px solid #ed3833;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1329,7 +1329,7 @@ a:hover {
 .price-a {
   color: #ffffff;
   padding: .6rem .8rem;
-  border: 2px solid #bd2130;
+  border: 2px solid #ed3833;
   border-radius: 50px;
   text-transform: uppercase;
   letter-spacing: 0.030em;
@@ -1339,7 +1339,7 @@ a:hover {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: #bd2130;
+  background-color: #ed3833;
 }
 
 .card-info {
@@ -1656,7 +1656,7 @@ a:hover {
 
 .card-box-ico {
   padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #bd2130;
+  border: 5px solid #ed3833;
 }
 
 .card-box-ico span {
@@ -2128,7 +2128,7 @@ a:hover {
 .section-footer {
   padding-top: 60px;
   margin-top: 60px;
-  background: #f3f3f3;
+  background: #ed3833;
 }
 
 .section-footer ul {
@@ -2171,4 +2171,9 @@ footer .credits {
 
 .Animation-Sec-Home-Image {
   max-width: 100%;
+}
+
+.Animation-Sec-Home-Image-2 {
+  max-width: 260px;
+  margin-top: 100px;
 }
